@@ -13,7 +13,7 @@ reading:
 2024
 
 - [59ext](https://github.com/johnson86tw/59ext): A chrome extension for enhancing UX of the 591 rental website.
-- Monitoring wallet with [web push notifications](https://github.com/johnson86tw/pwa-notification).
+- Monitoring wallet with [web push notifications](https://github.com/johnson86tw/pwa-notification), Alchemy Webhooks, and [Cloudflare Workers](https://github.com/johnson86tw/address-monitoring).
 - Using a sound level meter for [noise monitoring](https://hackmd.io/xi3p04WMTY6HvkPhGZO2TQ?view).
 - [Vue Dapp GG20 Results](https://vue-dapp-donations.vercel.app/)
 - [Token Heist](https://token-heist.vercel.app/): A real-time, two-player on-chain board game utilizing zero-knowledge proofs.
