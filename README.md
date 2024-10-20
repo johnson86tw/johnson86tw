@@ -1,12 +1,12 @@
 I'm working on:
 
-- Exploring [Account Abstraction](https://github.com/johnson86tw/aa-test) and trying to build a Dollar Cost Averaging strategy.
-- Maintaining [Vue Dapp](https://vuedapp.xyz/) and planning the future development.
+- Exploring ERC-4337 Account Abstraction (bundler, paymaster, and modular account)
+- Maintaining [Vue Dapp](https://github.com/vu3th/vue-dapp)
 
 reading:
 
-- [Naoko (novel)](https://en.wikipedia.org/wiki/Naoko_(novel))
-- [Mixed Signals: How Incentives Really Work](https://www.goodreads.com/book/show/61871752-mixed-signals)
+- How Big Things Get Done: The Surprising Factors That Determine the Fate of Every Project, from Home Renovations to Space Exploration and Everyt
+- Proof of Stake: The Making of Ethereum and the Philosophy of Blockchains
 
 ### Previous open source work
 
