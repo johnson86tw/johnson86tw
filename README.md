@@ -1,12 +1,7 @@
 I'm working on:
 
-- Exploring ERC-4337 Account Abstraction (bundler, paymaster, and modular account)
+- Exploring ERC-4337 Account Abstraction [aa-dev](https://github.com/johnson86tw/aa-dev)
 - Maintaining [Vue Dapp](https://github.com/vu3th/vue-dapp)
-
-reading:
-
-- How Big Things Get Done: The Surprising Factors That Determine the Fate of Every Project, from Home Renovations to Space Exploration and Everyt
-- Proof of Stake: The Making of Ethereum and the Philosophy of Blockchains
 
 ### Previous open source work
 
