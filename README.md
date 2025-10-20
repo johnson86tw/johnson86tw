@@ -1,4 +1,4 @@
-- [Smart Account Manager](https://github.com/ethaccount/SAManager): A web-based wallet designed for interoperability and Dapp integration.
+- [Smart Account Manager](https://github.com/ethaccount/SAManager): A web-based smart contract wallet designed for interoperability and Dapp integration.
 - [RoyaltyAutoClaim](https://github.com/EtherTW/RoyaltyAutoClaim): A Dapp for claiming TEM Medium Publication royalties.
 - [sendop](https://github.com/ethaccount/sendop): A TypeScript library for sending user operations on ERC-4337.
 - [Vue Dapp](https://github.com/ethaccount/vue-dapp): A Vue.js library for connecting ethereum wallets.
