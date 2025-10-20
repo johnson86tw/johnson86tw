@@ -1,5 +1,4 @@
-- [Smart Account Manager](https://github.com/ethaccount/SAManager): A dApp for managing smart accounts.
-- [sendop.js](https://github.com/ethaccount/sendop): A TypeScript library for sending user operations for ERC-4337 contracts.
-- [RoyaltyAutoClaim](https://github.com/EtherTW/RoyaltyAutoClaim): A dApp for claiming TEM Medium Publication royalties using ERC-4337.
-- [Vue Dapp](https://github.com/ethaccount/vue-dapp): A Vue.js library for connecting and switching between various crypto wallets.
-- [59ext](https://github.com/johnson86tw/59ext): A chrome extension for enhancing UX of the 591 rental website.
+- [Smart Account Manager](https://github.com/ethaccount/SAManager): A web-based wallet designed for interoperability and Dapp integration.
+- [RoyaltyAutoClaim](https://github.com/EtherTW/RoyaltyAutoClaim): A Dapp for claiming TEM Medium Publication royalties.
+- [sendop](https://github.com/ethaccount/sendop): A TypeScript library for sending user operations on ERC-4337.
+- [Vue Dapp](https://github.com/ethaccount/vue-dapp): A Vue.js library for connecting ethereum wallets.
